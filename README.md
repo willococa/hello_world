@@ -48,8 +48,6 @@ REQUIRED SECTIONS:
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Show greeetings in header]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -74,5 +72,5 @@ REQUIRED SECTIONS:
 - Twitter: [@twitterhandle](https://twitter.com/willocoro)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/william-ocor%C3%B3-591003268)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a></p>
 
