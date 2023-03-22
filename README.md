@@ -21,6 +21,30 @@ REQUIRED SECTIONS:
 
 </div>
 
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello World Project] <a name="hello-world"></a>
@@ -54,16 +78,31 @@ REQUIRED SECTIONS:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link] <code>N/A</code>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+### Prerequisites
+<code>N/A</code>
+### Setup
 > Clone repo and open index.html in any modern browser
-
-
-
+### Install
+<code>N/A</code>
+### Usage
+><code>N/A</code>
+### Run tests
+><code>N/A</code>
+### Deployment
+><code>N/A</code>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -76,3 +115,47 @@ REQUIRED SECTIONS:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+><code>N/A</code>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+><code>N/A</code>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+><code>N/A</code>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> I would like to thank Microverse
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+><code>N/A</code>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+><code>N/A</code>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
